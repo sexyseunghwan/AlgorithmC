@@ -149,7 +149,9 @@
   <ItemGroup>
     <ClCompile Include="CommonDivisor5618.c" />
     <ClCompile Include="Snail1913.c" />
+    <ClCompile Include="SuperMario2851.c" />
     <ClCompile Include="TruckParking2979.c" />
+    <ClCompile Include="WomanPresident2775.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
