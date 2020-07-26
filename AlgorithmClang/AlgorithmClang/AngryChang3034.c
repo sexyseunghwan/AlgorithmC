@@ -55,7 +55,7 @@ int total_matches[1001];
 void m1_3034();
 void m2_3034();
 
-int main() 
+int main_3034() 
 {	
 
 	//m1_3034();

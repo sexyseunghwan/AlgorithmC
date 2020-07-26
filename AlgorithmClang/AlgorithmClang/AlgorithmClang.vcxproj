@@ -149,6 +149,7 @@
   <ItemGroup>
     <ClCompile Include="AngryChang3034.c" />
     <ClCompile Include="CommonDivisor5618.c" />
+    <ClCompile Include="DigitalRoot6378.c" />
     <ClCompile Include="FireCracker1773.c" />
     <ClCompile Include="Snail1913.c" />
     <ClCompile Include="SuperMario2851.c" />
