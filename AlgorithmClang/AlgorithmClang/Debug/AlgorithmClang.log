@@ -1,3 +1,4 @@
-﻿  DigitalRoot6378.c
-C:\AlgorithmC\AlgorithmClang\AlgorithmClang\DigitalRoot6378.c(12,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+﻿  StringType1170.c
+C:\AlgorithmC\AlgorithmClang\AlgorithmClang\StringType1170.c(16,20): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+C:\AlgorithmC\AlgorithmClang\AlgorithmClang\StringType1170.c(20,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
   AlgorithmClang.vcxproj -> C:\AlgorithmC\AlgorithmClang\Debug\AlgorithmClang.exe

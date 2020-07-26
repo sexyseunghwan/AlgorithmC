@@ -31,9 +31,8 @@ char input_num[1001];//입력숫자
 
 */
 
-int main() {
+int main_6378() {
 
-	//첫번째 풀이
 	
 	while (1) {
 		scanf("%s", &input_num);//숫자 입력받기
