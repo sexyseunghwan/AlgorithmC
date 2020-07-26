@@ -147,6 +147,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="AngryChang3034.c" />
     <ClCompile Include="CommonDivisor5618.c" />
     <ClCompile Include="FireCracker1773.c" />
     <ClCompile Include="Snail1913.c" />

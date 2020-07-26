@@ -6,7 +6,7 @@ int n, c, t, cnt, time[2000001];// -> 두번쨰 풀이와 연관
 void m1();//첫번쨰 풀이
 void m2();//두번쨰 풀이
 
-int main() 
+int main_1773() 
 {
 	m1();
 	//m2();
