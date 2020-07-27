@@ -151,6 +151,7 @@
     <ClCompile Include="CommonDivisor5618.c" />
     <ClCompile Include="DigitalRoot6378.c" />
     <ClCompile Include="FireCracker1773.c" />
+    <ClCompile Include="Octal2998.c" />
     <ClCompile Include="Snail1913.c" />
     <ClCompile Include="StringType1170.c" />
     <ClCompile Include="SuperMario2851.c" />

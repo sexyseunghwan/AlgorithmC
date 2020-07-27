@@ -28,9 +28,11 @@ adaabc aababbc
 예제 출력 1
 2
 
+
+
 */
 
-int main() {
+int main_1170() {
 	
 	char voca1[51];//첫번째 단어 
 	char voca2[51];//두번째 단어 -> 비교대상 단어 : 단어의 길이가 voca1 이상임

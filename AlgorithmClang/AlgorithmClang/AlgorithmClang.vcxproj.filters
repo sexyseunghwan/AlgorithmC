@@ -45,5 +45,8 @@
     <ClCompile Include="StringType1170.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Octal2998.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
