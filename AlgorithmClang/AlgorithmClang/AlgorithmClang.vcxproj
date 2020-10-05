@@ -90,6 +90,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions);_CRT_SECURE_NO_WARNINGS</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
+      <DisableSpecificWarnings>6031</DisableSpecificWarnings>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -151,6 +152,8 @@
     <ClCompile Include="CommonDivisor5618.c" />
     <ClCompile Include="DigitalRoot6378.c" />
     <ClCompile Include="FireCracker1773.c" />
+    <ClCompile Include="Josepus11866.c" />
+    <ClCompile Include="Josepus11866_1.c" />
     <ClCompile Include="Octal2998.c" />
     <ClCompile Include="Snail1913.c" />
     <ClCompile Include="StringType1170.c" />

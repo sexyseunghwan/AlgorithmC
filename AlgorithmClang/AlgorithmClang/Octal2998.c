@@ -40,7 +40,7 @@
 void m1();
 void m2();
 
-int main() 
+int main_2998() 
 {
 	m1();
 	//m2();

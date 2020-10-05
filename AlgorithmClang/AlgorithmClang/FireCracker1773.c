@@ -8,12 +8,12 @@ void m2();//두번쨰 풀이
 
 int main_1773() 
 {
-	m1();
+	//m1();
 	//m2();
 
 }
 
-void m1()
+void m1_1773()
 {	//첫번쨰 방법
 
 	int person;//폭죽 터뜨릴 인원수
@@ -43,7 +43,7 @@ void m1()
 	printf("%d", total_fire_count);
 }
 
-void m2() 
+void m2_1773()
 {//두번쨰 방법
 
 	scanf("%d %d", &n, &c);//n은 학생명수를 c는 전체 시간을 뜻한다
