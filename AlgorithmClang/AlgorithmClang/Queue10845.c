@@ -111,7 +111,7 @@ void m2_10845()
 		}
 		else if (strcmp(command, "front") == 0) {
 			if (queue_size == 0) printf("-1\n");
-			else printf("%d\n", queue[0]);
+			else printf("%d\n", queue[pop_index]);//문제생기는거 아닌가 뭐지?
 		}
 		else {
 			if (queue_size == 0) printf("-1\n");
