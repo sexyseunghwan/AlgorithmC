@@ -30,9 +30,6 @@
     <ClCompile Include="WomanPresident2775.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="연습용.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="FireCracker1773.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -52,6 +49,9 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="Josepus11866_1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Queue10845.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

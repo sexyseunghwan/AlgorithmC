@@ -90,7 +90,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions);_CRT_SECURE_NO_WARNINGS</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <DisableSpecificWarnings>6031</DisableSpecificWarnings>
+      <DisableSpecificWarnings>6031;6054</DisableSpecificWarnings>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -155,12 +155,12 @@
     <ClCompile Include="Josepus11866.c" />
     <ClCompile Include="Josepus11866_1.c" />
     <ClCompile Include="Octal2998.c" />
+    <ClCompile Include="Queue10845.c" />
     <ClCompile Include="Snail1913.c" />
     <ClCompile Include="StringType1170.c" />
     <ClCompile Include="SuperMario2851.c" />
     <ClCompile Include="TruckParking2979.c" />
     <ClCompile Include="WomanPresident2775.c" />
-    <ClCompile Include="연습용.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
