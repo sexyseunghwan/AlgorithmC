@@ -158,6 +158,7 @@
     <ClCompile Include="Octal2998.c" />
     <ClCompile Include="Queue10845.c" />
     <ClCompile Include="Snail1913.c" />
+    <ClCompile Include="Stick1094.c" />
     <ClCompile Include="StringType1170.c" />
     <ClCompile Include="SuperMario2851.c" />
     <ClCompile Include="TruckParking2979.c" />

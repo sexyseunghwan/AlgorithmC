@@ -57,5 +57,8 @@
     <ClCompile Include="Deck10866.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Stick1094.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

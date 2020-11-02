@@ -102,7 +102,7 @@
 
 int deck[10003];//deck
 
-int main()
+int main_10866()
 {
 	int cycle;//명령 몇번을 수행할것인지.
 	scanf("%d", &cycle);
@@ -190,6 +190,9 @@ int main()
 		}
 	}
 	return 0;
+
+	
+
 }
 
 
