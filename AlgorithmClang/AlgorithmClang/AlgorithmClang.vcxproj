@@ -149,9 +149,11 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="AngryChang3034.c" />
+    <ClCompile Include="AvoidFoodTrash1743.c" />
     <ClCompile Include="CommonDivisor5618.c" />
     <ClCompile Include="Deck10866.c" />
     <ClCompile Include="DigitalRoot6378.c" />
+    <ClCompile Include="exexex.c" />
     <ClCompile Include="FireCracker1773.c" />
     <ClCompile Include="Josepus11866.c" />
     <ClCompile Include="Josepus11866_1.c" />

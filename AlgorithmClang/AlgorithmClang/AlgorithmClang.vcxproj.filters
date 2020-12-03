@@ -60,5 +60,11 @@
     <ClCompile Include="Stick1094.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="AvoidFoodTrash1743.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="exexex.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

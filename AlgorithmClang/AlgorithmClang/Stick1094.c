@@ -1,13 +1,13 @@
 #include <stdio.h>
 
 
-void stick1();
-void stick2();
+//void stick1();
+//void stick2();
 
-int main() 
+int main_1094() 
 {	
 	//stick1();
-	stick2();
+	//stick2();
 
 
 	return 0;
